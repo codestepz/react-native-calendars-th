@@ -52,16 +52,16 @@ Parameters that require date types accept YYYY-MM-DD formated datestrings, JavaS
 Calendars can be localized by adding custom locales to `LocaleConfig` object:
 
 ```javascript
-import {LocaleConfig} from 'react-native-calendars';
+import { LocaleConfig } from 'react-native-calendars-th';
 
-LocaleConfig.locales['fr'] = {
+LocaleConfig.locales['th'] = {
   monthNames: ['มกราคม', 'กุมภาพันธ์', 'มีนาคม', 'เมษายน', 'พฤษภาคม', 'มิถุนายน', 'กรกฎาคม', 'สิงหาคม', 'กันยายน', 'ตุลาคม', 'พฤศจิกายน', 'ธันวาคม'],
   monthNamesShort: ['ม.ค.', 'ก.พ.', 'ม.ค.', 'เม.ย.', 'พ.ค.', 'มิ.ย.', 'ก.ค.', 'ส.ค.', 'ก.ย.', 'ต.ค.', 'พ.ย', 'ธ.ค.'],
   dayNames: ['อาทิตย์', 'จันทร์', 'อังคาร', 'พุธ', 'พฤหัสบดี', 'ศุกร์', 'เสาร์'],
   dayNamesShort: ['อา.', 'จ.', 'อ.', 'พ.', 'พฤ.', 'ศ.', 'ส.']
 };
 
-LocaleConfig.defaultLocale = 'fr';
+LocaleConfig.defaultLocale = 'th';
 ```
 
 ### Calendar
