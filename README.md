@@ -11,7 +11,7 @@ The package is both **Android** and **iOS** compatible.
 You can run example module by performing these steps:
 
 ```
-$ git clone git@github.com:wix/react-native-calendars-th.git
+$ git clone git@github.com:codemaxz/react-native-calendars-th.git
 $ cd react-native-calendars-th/example
 $ npm install
 $ react-native run-ios
@@ -24,7 +24,7 @@ This project is compatible with Expo/CRNA (without ejecting), and the examples h
 ## Installation
 
 ```
-$ npm install --save react-native-calendars
+$ npm install --save react-native-calendars-th
 ```
 
 The solution is implemented in JavaScript so no native module linking is required.
