@@ -1,6 +1,6 @@
 {
-  "name": "react-native-calendars",
-  "version": "1.9.0",
+  "name": "@codemaxz/react-native-calendars-th",
+  "version": "1.9.0.1",
   "main": "src/index.js",
   "description": "React Native Calendar Components",
   "scripts": {
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wix/react-native-calendars"
+    "url": "git+https://github.com/codemaxz/react-native-calendars-th.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "author": "Wix.com",
+  "author": "Wix.com | Modify by Eakkabin Jaikeawma",
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.5.10",
