@@ -1,4 +1,4 @@
-# React Native Calendars ✨ 🗓️ 📆
+# React Native Calendars Thai ✨ 🗓️ 📆
 [![NPM Version](https://img.shields.io/npm/v/react-native-calendars.svg?style=flat)](https://www.npmjs.com/package/react-native-calendars-th)
 [![Build Status](https://travis-ci.org/wix/react-native-calendars.svg?branch=master)](https://travis-ci.org/wix/react-native-calendars)
 
